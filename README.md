@@ -5,22 +5,22 @@
   Hi, I'm <strong>Abhijith P M</strong>
 </h1>
 
-<h3>MERN Stack Developer | AI/ML Enthusiast | CSE Student</h3>
+<h3>MERN Stack Developer | AI / ML Enthusiast | CSE Student</h3>
 
 <div align="left">
 
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>
 
 <p>
-I’m a Computer Science Engineering student passionate about building full-stack web applications and AI-powered systems.  
-I enjoy turning ideas into real products using MERN stack and machine learning tools.
+Computer Science Engineering student passionate about building <b>scalable web applications</b> and <b>AI-driven systems</b>.  
+I enjoy transforming ideas into real products using the <b>MERN stack</b> and modern machine learning tools.
 </p>
 
 <p>
 🌍 Thrissur, Kerala, India <br>
 📧 abhijithpm021@gmail.com <br>
 💻 MERN Stack Developer <br>
-🤖 Interested in AI, ML & Full Stack Development
+🤖 Interested in AI, Machine Learning & Full-Stack Development
 </p>
 
 </div>
@@ -29,92 +29,119 @@ I enjoy turning ideas into real products using MERN stack and machine learning t
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
 
-<a href="https://github.com/yourusername">
-<img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white"/>
+<a href="https://github.com/abhiiijith">
+<img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/yourlinkedin">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white"/>
+<a href="https://www.linkedin.com/in/abhijithpm10/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:abhijithpm021@gmail.com">
-<img src="https://img.shields.io/badge/Email-1e1e2e?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Email-1e1e2e?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
 
 ---
 
-# 🛠️ Skills
-
-<p align="center">
+# 🛠️ Technical Skills
 
 ### 💻 Programming Languages
+
 <img src="https://skillicons.dev/icons?i=js,python,c,java" />
 
 ### 🌐 Web Development
+
 <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,mysql" />
 
-### 🤖 AI / ML
+### 🤖 AI / Machine Learning
+
 <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
 
-### 🧰 Tools
+### 🧰 Tools & Platforms
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+
+---
+
+# 🚀 Featured Projects
+
+### 🧠 Mental Health Detection System
+
+* Developed a **full-stack mental health monitoring platform**
+* Multi-modal analysis using **Text, Audio, and Video**
+* Integrated **LLM-based text analysis, Librosa audio processing, and DeepFace**
+* Built an **interactive analytics dashboard** to visualize mental health trends
+
+### 🧬 Brain Tumor Detection using Deep Learning
+
+* Developed a **CNN-based MRI classification system**
+* Evaluated **ResNet50, DenseNet, EfficientNetB1, InceptionV3**
+* Achieved **~99% accuracy using InceptionV3**
+
+### 📝 Notes Application
+
+* CRUD notes management system
+* Built with **Node.js, Express.js, MongoDB**
+* Implemented **REST APIs and frontend integration using Fetch API**
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=abhiiijith&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiiijith&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🚀 Projects
+# 🔥 Contribution Streak
 
-### 🧠 Mental Health Detection System
-- Built a **full-stack mental health monitoring system**
-- Multi-mode analysis using **Text, Audio and Video**
-- Used **LLM, Librosa, DeepFace** for detection
-- Interactive dashboard to track user mental health trends
-
-### 🧬 Brain Tumor Detection using Deep Learning
-- CNN based MRI classification system
-- Compared **ResNet50, DenseNet, EfficientNetB1, InceptionV3**
-- Achieved **~99% accuracy using InceptionV3**
-
-### 📝 Notes App
-- CRUD Notes application
-- Built using **Node.js, Express, MongoDB**
-- REST APIs + Fetch API integration
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=abhiiijith&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-# 📊 GitHub Stats
+# 🏆 GitHub Achievements
 
 <p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=abhiiijith&theme=algolia&no-frame=true&margin-w=10"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark"/>
+---
 
-<img src="https://streak-stats.demolab.com?user=yourusername&theme=dark&hide_border=true"/>
+# 📈 Activity Graph
 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhiiijith&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
 
 # 🎓 Education
 
-🎓 **B.Tech Computer Science & Engineering**  
-IES College of Engineering, Thrissur  
-CGPA: **8.78**
+🎓 **B.Tech – Computer Science & Engineering**
+IES College of Engineering, Thrissur
 
----
-
-# 📜 Certifications
-
-- MERN Stack Internship – EY Global Delivery & AICTE  
-- Backend Web Development – Microsoft Learn Student Ambassadors  
-- Database and SQL – Infosys Springboard  
-- Python with Django – Zuike Infotech  
+📈 CGPA: **8.78**
 
 ---
 
