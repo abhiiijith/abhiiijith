@@ -1,88 +1,173 @@
 # Hi, I'm Abhijith P M 👋
 
-**Full-Stack Developer · AI & ML Enthusiast · CSE Student**
+### Full-Stack Developer | AI & Machine Learning Enthusiast | Aspiring Cloud & DevOps Engineer
 
-Computer Science Engineering student passionate about building scalable web applications, AI-powered solutions, and modern software systems. I enjoy working across the full development lifecycle — from designing responsive frontends and robust backend APIs to exploring machine learning, cloud technologies, and DevOps practices.
+Computer Science Engineering graduate with hands-on experience in developing full-stack web applications, AI-powered systems, and scalable backend solutions. Passionate about building software that combines intelligent decision-making, robust architecture, and real-world usability.
 
-📍 Thrissur, Kerala, India
-
-[![GitHub](https://img.shields.io/badge/GitHub-abhiiijith-181717?style=flat&logo=github)](https://github.com/abhiiijith)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-abhijithpm10-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/abhijithpm10)
-[![Email](https://img.shields.io/badge/Email-abhijithpm021@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:abhijithpm021@gmail.com)
+My experience spans modern web development, machine learning, database design, and API development. I am currently expanding my expertise in Linux, Docker, AWS, CI/CD, and DevOps practices while continuing to build production-oriented applications.
 
 ---
 
-## 🛠️ Tech Stack
+## 🌐 Connect With Me
 
-**Languages**
-`JavaScript` `TypeScript` `Python` `Java` `C`
+* GitHub: https://github.com/abhiiijith
+* LinkedIn: https://linkedin.com/in/abhijithpm10
+* Email: [abhijithpm021@gmail.com](mailto:abhijithpm021@gmail.com)
 
-**Frontend**
-`React.js` `HTML5` `CSS3`
+---
 
-**Backend**
-`Node.js` `Express.js` `Django` `REST API Development`
+## 🛠️ Technical Skills
 
-**Databases**
-`PostgreSQL` `MongoDB` `MySQL`
+### Programming Languages
 
-**AI / ML**
-`TensorFlow` `OpenCV` `DeepFace` `Librosa` `LLM Integration`
+* JavaScript
+* TypeScript
+* Python
+* Java
+* C
 
-**Tools**
-`Git` `GitHub` `VS Code` `Postman`
+### Frontend Development
 
-**Currently Learning**
-`Docker` `AWS` `Linux` `DevOps` `CI/CD Pipelines`
+* React.js
+* HTML5
+* CSS3
+
+### Backend Development
+
+* Django
+* Node.js
+* Express.js
+* RESTful APIs
+
+### Databases
+
+* PostgreSQL
+* MongoDB
+* MySQL
+
+### Artificial Intelligence & Machine Learning
+
+* Large Language Models (LLMs)
+* Deep Learning
+* TensorFlow
+* OpenCV
+* DeepFace
+* Librosa
+
+### Tools & Technologies
+
+* Git
+* GitHub
+* Postman
+* VS Code
+
+### Currently Exploring
+
+* Linux Administration
+* Docker
+* AWS Cloud Computing
+* CI/CD Pipelines
+* DevOps Engineering
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🏛️ Smart Complaint Management System
-> Django · React · TypeScript · PostgreSQL
 
-Full-stack complaint management platform for efficient grievance handling with role-based access control, complaint tracking workflows, and a responsive React/TypeScript frontend backed by PostgreSQL.
+**Tech Stack:** Django · React · TypeScript · PostgreSQL
+
+A full-stack complaint management platform designed to streamline complaint registration, tracking, and resolution workflows.
+
+#### Key Features
+
+* Role-based access control for users and administrators
+* Complaint lifecycle tracking and status management
+* Secure REST API architecture
+* PostgreSQL-backed data storage
+* Responsive React and TypeScript frontend
+* Dashboard for efficient complaint monitoring
 
 ---
 
 ### 🧠 Mental Health Detection System
-> Python · React · Groq LLM · Librosa · DeepFace · PostgreSQL
 
-Multimodal mental health assessment platform combining text-based LLM analysis, speech-based audio insights via Librosa, and facial emotion recognition via DeepFace — with an analytics dashboard for visualising trends and severity assessments.
+**Tech Stack:** Python · React · SQLite · Groq LLM · Librosa · DeepFace
+
+A multimodal mental health assessment platform that combines text, audio, and facial analysis to generate mental health insights.
+
+#### Key Features
+
+* LLM-powered text analysis
+* Audio feature extraction using Librosa
+* Facial emotion recognition using DeepFace
+* Confidence-based assessment system
+* Interactive analytics dashboard
+* Multimodal decision fusion architecture
+* Mental health trend visualization
 
 ---
 
 ### 🧬 Brain Tumor Detection Using Deep Learning
-> Python · TensorFlow · OpenCV · CNN
 
-MRI image classification system achieving ~99% accuracy using InceptionV3. Evaluated multiple architectures (ResNet50, DenseNet, EfficientNetB1, InceptionV3) with full preprocessing, training, and validation pipelines.
+**Tech Stack:** Python · TensorFlow · OpenCV · CNN
+
+A deep learning-based MRI image classification system developed for brain tumor detection and classification
+
+#### Key Features
+
+* Comparative evaluation of multiple CNN architectures
+* InceptionV3, ResNet50, DenseNet, and EfficientNetB1
+* Image preprocessing and augmentation pipeline
+* Model training, validation, and evaluation
+* Approximately 99% classification accuracy
 
 ---
 
-### 📝 Notes Management Application
-> Node.js · Express.js · MongoDB · JavaScript
+## 📚 Areas of Interest
 
-Full-stack notes app with complete CRUD functionality, RESTful APIs, and MongoDB for persistent storage. Frontend and backend integrated via the Fetch API.
+* Full-Stack Development
+* Artificial Intelligence
+* Machine Learning
+* Cloud Computing
+* DevOps Engineering
+* Backend Development
+* System Design
 
 ---
 
 ## 🎓 Education
 
-**B.Tech — Computer Science & Engineering**
+### Bachelor of Technology (B.Tech)
+
+**Computer Science and Engineering**
+
 IES College of Engineering, Thrissur
-CGPA: **8.78 / 10**
+
+**CGPA:** 8.82 / 10
 
 ---
 
-## 🌱 Currently Focused On
-
-- Full-Stack Web Development
-- Artificial Intelligence & Machine Learning
-- Cloud Computing (AWS)
-- DevOps & Automation
-- System Design Fundamentals
+## 📈 GitHub Statistics
 
 ---
 
-*Passionate about building impactful software solutions and continuously improving through hands-on projects and learning.*
+## 🔥 Contribution Streak
+
+---
+
+## 📊 Activity Graph
+
+---
+
+## 🌱 Current Focus
+
+* Building scalable full-stack applications
+* Advancing cloud and DevOps skills
+* Learning Docker and containerization
+* Exploring AWS services and deployment workflows
+* Improving system design and backend architecture knowledge
+
+---
+
+> Building software that combines intelligent systems, scalable engineering, and real-world impact.
